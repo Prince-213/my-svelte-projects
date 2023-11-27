@@ -1,0 +1,1 @@
+<header class=" w-full py-6 bg-primary-200 text-white font-semibold text-center"><h1>Header</h1></header>

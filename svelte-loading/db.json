@@ -1,0 +1,119 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "price": 700,
+      "description": "Product description 1"
+    },
+
+    {
+      "id": 2,
+      "title": "Product 2",
+      "price": 740,
+      "description": "Product description 2"
+    },
+
+    {
+      "id": 3,
+      "title": "Product 3",
+      "price": 200,
+      "description": "Product description 3"
+    }
+  ],
+
+  "most-active-stock" : {
+    "symbol" : "STOCK A",
+    "price" : 351.0
+  },
+
+  "top-gaming-stock" : {
+    "symbol" : "STOCK B",
+    "price" : 50.0
+  },
+
+  "top-losing-stock" : {
+    "symbol" : "STOCK C",
+    "price" : 100.0
+  },
+
+  "stocks" : [
+    {
+      "symbol" : "STOCK D",
+      "price" : 12144444.0
+    },
+    {
+      "symbol" : "STOCK E",
+      "price" : 151.4440
+    },
+    {
+      "symbol" : "STOCK F",
+      "price" : 5999.0
+    }
+  ],
+
+  "postcodes": [
+    {
+      "code": "10001",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "population": 8398748,
+      "timezone": "Eastern Time (ET)"
+    },
+    {
+      "code": "90210",
+      "city": "Beverly Hills",
+      "state": "CA",
+      "country": "USA",
+      "latitude": 34.09,
+      "longitude": -118.4055,
+      "population": 34109,
+      "timezone": "Pacific Time (PT)"
+    },
+    {
+      "code": "WC2N 5DU",
+      "city": "London",
+      "country": "UK",
+      "latitude": 51.5099,
+      "longitude": -0.1269,
+      "population": 8982000,
+      "timezone": "Greenwich Mean Time (GMT)"
+    },
+    {
+      "code": "2000",
+      "city": "Sydney",
+      "state": "NSW",
+      "country": "Australia",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "population": 5312163,
+      "timezone": "Australian Eastern Standard Time (AEST)"
+    }
+  ],
+
+  "featured-products": [
+    {
+      "id": 1,
+      "title": "Featured Product 1",
+      "price": 700,
+      "description": "Featured Product description 1"
+    },
+
+    {
+      "id": 2,
+      "title": "Featured Product 2",
+      "price": 740,
+      "description": "Featured Product description 2"
+    },
+
+    {
+      "id": 3,
+      "title": "Featured Product 3",
+      "price": 200,
+      "description": "Featured Product description 3"
+    }
+  ]
+}
